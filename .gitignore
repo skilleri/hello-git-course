@@ -4,5 +4,4 @@ build-*
 local_configurations.py
 html/
 !build*.py
-github
-github.pub
+.ssh
