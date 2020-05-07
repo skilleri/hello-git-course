@@ -1,3 +1,6 @@
+*.in
+*.out
+*.pyc
 *.pro.user
 build-*
 *.o
